@@ -32,7 +32,7 @@ def func(dname):
 	url = attr(fname).get('url', '')
 	title = '['+title+']( '+url+' )'
 	solution = '['+sols(dname)+']( "' \
-		+dname.replace(' ', '%20')+'/" )'
+						+dname+'/" )'
 	return (index,title,solution)
 
 def output(tb):
