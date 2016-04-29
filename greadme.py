@@ -43,7 +43,7 @@ def output(tb):
 	for tpl in tb:
 		fout.write('| %d | %s | %s |\n' % tpl)
 
-dlst = [x for x in os.listdir()  \
+dlst = [x for x in os.listdir('.')  \
 			if os.path.isdir(x)  \
 			and x not in ['.git']]
 output(sorted(map(func, dlst)))
