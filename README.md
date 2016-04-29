@@ -1,6 +1,6 @@
 # leetcode solution
 
-| Index | Title | Solution |
+| Index | Problem | Solution |
 | :---- | :---- | :------: |
 | 1 | [Two Sum]( https://leetcode.com/problems/two-sum/ ) | [C++]( 1.%20Two%20Sum ) |
 | 2 | [Add Two Numbers]( https://leetcode.com/problems/two-sum/ ) | [C++]( 2.%20Add%20Two%20Numbers ) |

@@ -38,7 +38,7 @@ def func(dname):
 def output(tb):
 	fout = open('README.md', 'w')
 	fout.write('# leetcode solution\n\n')
-	fout.write('| Index | Title | Solution |\n')
+	fout.write('| Index | Problem | Solution |\n')
 	fout.write('| :---- | :---- | :------: |\n')
 	for tpl in tb:
 		fout.write('| %d | %s | %s |\n' % tpl)
