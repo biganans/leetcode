@@ -31,8 +31,8 @@ def func(dname):
 	fname = dname + '/attr.json'
 	url = attr(fname).get('url', '')
 	title = '['+title+']( '+url+' )'
-	solution = '['+sols(dname)+']( "' \
-						+dname+'/" )'
+	solution = '['+sols(dname)+']( ' \
+		+dname.replace(' ', '%20')+' )'
 	return (index,title,solution)
 
 def output(tb):
