@@ -17,3 +17,8 @@
 | 13 | [Roman to Integer]( https://leetcode.com/problems/roman-to-integer/ ) | [C++]( 13.%20Roman%20to%20Integer ) |
 | 14 | [Longest Common Prefix]( https://leetcode.com/problems/longest-common-prefix/ ) | [C++]( 14.%20Longest%20Common%20Prefix ) |
 | 15 | [3Sum]( https://leetcode.com/problems/3sum/ ) | [C++]( 15.%203Sum ) |
+| 16 | [3Sum Closest]( https://leetcode.com/problems/3sum-closest/ ) | [C++]( 16.%203Sum%20Closest ) |
+| 17 | [Letter Combinations of a Phone Number]( https://leetcode.com/problems/letter-combinations-of-a-phone-number/ ) | [C++]( 17.%20Letter%20Combinations%20of%20a%20Phone%20Number ) |
+| 18 | [4Sum]( https://leetcode.com/problems/4sum/ ) | [C++]( 18.%204Sum ) |
+| 19 | [Remove Nth Node From End of List]( https://leetcode.com/problems/remove-nth-node-from-end-of-list/ ) | [C++]( 19.%20Remove%20Nth%20Node%20From%20End%20of%20List ) |
+| 20 | [Valid Parentheses]( https://leetcode.com/problems/valid-parentheses/ ) | [C++]( 20.%20Valid%20Parentheses ) |
