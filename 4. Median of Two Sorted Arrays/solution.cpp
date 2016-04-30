@@ -14,4 +14,3 @@ public:
         return (lhs + rhs) / 2.0;
     }
 };
-
