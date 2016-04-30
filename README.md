@@ -12,3 +12,8 @@
 | 8 | [String to Integer (atoi)]( https://leetcode.com/problems/string-to-integer-atoi/ ) | [C++]( 8.%20String%20to%20Integer%20(atoi) ) |
 | 9 | [Palindrome Number]( https://leetcode.com/problems/palindrome-number/ ) | [C++]( 9.%20Palindrome%20Number ) |
 | 10 | [Regular Expression Matching]( https://leetcode.com/problems/regular-expression-matching/ ) | [C++]( 10.%20Regular%20Expression%20Matching ) |
+| 11 | [Container With Most Water]( https://leetcode.com/problems/container-with-most-water/ ) | [C++]( 11.%20Container%20With%20Most%20Water ) |
+| 12 | [Integer to Roman]( https://leetcode.com/problems/integer-to-roman/ ) | [C++]( 12.%20Integer%20to%20Roman ) |
+| 13 | [Roman to Integer]( https://leetcode.com/problems/roman-to-integer/ ) | [C++]( 13.%20Roman%20to%20Integer ) |
+| 14 | [Longest Common Prefix]( https://leetcode.com/problems/longest-common-prefix/ ) | [C++]( 14.%20Longest%20Common%20Prefix ) |
+| 15 | [3Sum]( https://leetcode.com/problems/3sum/ ) | [C++]( 15.%203Sum ) |
