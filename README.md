@@ -22,3 +22,9 @@
 | 18 | [4Sum]( https://leetcode.com/problems/4sum/ ) | [C++]( 18.%204Sum ) |
 | 19 | [Remove Nth Node From End of List]( https://leetcode.com/problems/remove-nth-node-from-end-of-list/ ) | [C++]( 19.%20Remove%20Nth%20Node%20From%20End%20of%20List ) |
 | 20 | [Valid Parentheses]( https://leetcode.com/problems/valid-parentheses/ ) | [C++]( 20.%20Valid%20Parentheses ) |
+| 21 | [Merge Two Sorted Lists]( https://leetcode.com/problems/merge-two-sorted-lists/ ) | [C++]( 21.%20Merge%20Two%20Sorted%20Lists ) |
+| 22 | [Generate Parentheses]( https://leetcode.com/problems/generate-parentheses/ ) | [C++]( 22.%20Generate%20Parentheses ) |
+| 23 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/ ) | [C++]( 23.%20Merge%20k%20Sorted%20Lists ) |
+| 24 | [Swap Nodes in Pairs]( https://leetcode.com/problems/swap-nodes-in-pairs/ ) | [C++]( 24.%20Swap%20Nodes%20in%20Pairs ) |
+| 25 | [Reverse Nodes in k-Group]( https://leetcode.com/problems/reverse-nodes-in-k-group/ ) | [C++]( 25.%20Reverse%20Nodes%20in%20k-Group ) |
+| 26 | [Remove Duplicates from Sorted Array]( https://leetcode.com/problems/remove-duplicates-from-sorted-array/ ) | [C++]( 26.%20Remove%20Duplicates%20from%20Sorted%20Array ) |
