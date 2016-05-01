@@ -31,3 +31,10 @@
 | 27 | [Remove Element]( https://leetcode.com/problems/remove-element/ ) | [C++]( 27.%20Remove%20Element ) |
 | 28 | [Implement strStr()]( https://leetcode.com/problems/implement-strstr/ ) | [C++]( 28.%20Implement%20strStr() ) |
 | 29 | [Divide Two Integers]( https://leetcode.com/problems/divide-two-integers/ ) | [C++]( 29.%20Divide%20Two%20Integers ) |
+| 30 | [Substring with Concatenation of All Words]( https://leetcode.com/problems/substring-with-concatenation-of-all-words/ ) | [C++]( 30.%20Substring%20with%20Concatenation%20of%20All%20Words ) |
+| 31 | [Next Permutation]( https://leetcode.com/problems/substring-with-concatenation-of-all-words/ ) | [C++]( 31.%20Next%20Permutation ) |
+| 32 | [Longest Valid Parentheses]( https://leetcode.com/problems/longest-valid-parentheses/ ) | [C++]( 32.%20Longest%20Valid%20Parentheses ) |
+| 33 | [Search in Rotated Sorted Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/ ) | [C++]( 33.%20Search%20in%20Rotated%20Sorted%20Array ) |
+| 34 | [Search for a Range]( https://leetcode.com/problems/search-for-a-range/ ) | [C++]( 34.%20Search%20for%20a%20Range ) |
+| 35 | [Search Insert Position]( https://leetcode.com/problems/search-insert-position/ ) | [C++]( 35.%20Search%20Insert%20Position ) |
+| 36 | [Valid Sudoku]( https://leetcode.com/problems/valid-sudoku/ ) | [C++]( 36.%20Valid%20Sudoku ) |
