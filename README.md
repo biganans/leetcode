@@ -28,3 +28,6 @@
 | 24 | [Swap Nodes in Pairs]( https://leetcode.com/problems/swap-nodes-in-pairs/ ) | [C++]( 24.%20Swap%20Nodes%20in%20Pairs ) |
 | 25 | [Reverse Nodes in k-Group]( https://leetcode.com/problems/reverse-nodes-in-k-group/ ) | [C++]( 25.%20Reverse%20Nodes%20in%20k-Group ) |
 | 26 | [Remove Duplicates from Sorted Array]( https://leetcode.com/problems/remove-duplicates-from-sorted-array/ ) | [C++]( 26.%20Remove%20Duplicates%20from%20Sorted%20Array ) |
+| 27 | [Remove Element]( https://leetcode.com/problems/remove-element/ ) | [C++]( 27.%20Remove%20Element ) |
+| 28 | [Implement strStr()]( https://leetcode.com/problems/implement-strstr/ ) | [C++]( 28.%20Implement%20strStr() ) |
+| 29 | [Divide Two Integers]( https://leetcode.com/problems/divide-two-integers/ ) | [C++]( 29.%20Divide%20Two%20Integers ) |
