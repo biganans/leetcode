@@ -44,3 +44,27 @@
 | 40 | [Combination Sum II]( https://leetcode.com/problems/combination-sum-ii/ ) | [C++]( 40.%20Combination%20Sum%20II ) |
 | 41 | [First Missing Positive]( https://leetcode.com/problems/first-missing-positive/ ) | [C++]( 41.%20First%20Missing%20Positive ) |
 | 42 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/ ) | [C++]( 42.%20Trapping%20Rain%20Water ) |
+| 58 | [Length of Last Word]( https://leetcode.com/problems/length-of-last-word/ ) | [C++]( 58.%20Length%20of%20Last%20Word ) |
+| 65 | [Valid Number]( https://leetcode.com/problems/valid-number/ ) | [C++]( 65.%20Valid%20Number ) |
+| 66 | [Plus One]( https://leetcode.com/problems/plus-one/ ) | [C++]( 66.%20Plus%20One ) |
+| 67 | [Add Binary]( https://leetcode.com/problems/add-binary/ ) | [C++]( 67.%20Add%20Binary ) |
+| 70 | [Climbing Stairs]( https://leetcode.com/problems/climbing-stairs/ ) | [C++]( 70.%20Climbing%20Stairs ) |
+| 74 | [Search a 2D Matrix]( https://leetcode.com/problems/search-a-2d-matrix/ ) | [C++]( 74.%20Search%20a%202D%20Matrix ) |
+| 83 | [Remove Duplicates from Sorted List]( https://leetcode.com/problems/remove-duplicates-from-sorted-list/ ) | [C++]( 83.%20Remove%20Duplicates%20from%20Sorted%20List ) |
+| 88 | [Merge Sorted Array]( https://leetcode.com/problems/merge-sorted-array/ ) | [C++]( 88.%20Merge%20Sorted%20Array ) |
+| 100 | [Same Tree]( https://leetcode.com/problems/same-tree/ ) | [C++]( 100.%20Same%20Tree ) |
+| 101 | [Symmetric Tree]( https://leetcode.com/problems/symmetric-tree/ ) | [C++]( 101.%20Symmetric%20Tree ) |
+| 102 | [Binary Tree Level Order Traversal]( https://leetcode.com/problems/binary-tree-level-order-traversal/ ) | [C++]( 102.%20Binary%20Tree%20Level%20Order%20Traversal ) |
+| 104 | [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/ ) | [C++]( 104.%20Maximum%20Depth%20of%20Binary%20Tree ) |
+| 107 | [Binary Tree Level Order Traversal II]( https://leetcode.com/problems/binary-tree-level-order-traversal-ii/ ) | [C++]( 107.%20Binary%20Tree%20Level%20Order%20Traversal%20II ) |
+| 110 | [Balanced Binary Tree]( https://leetcode.com/problems/balanced-binary-tree/ ) | [C++]( 110.%20Balanced%20Binary%20Tree ) |
+| 111 | [Minimum Depth of Binary Tree]( https://leetcode.com/problems/minimum-depth-of-binary-tree/ ) | [C++]( 111.%20Minimum%20Depth%20of%20Binary%20Tree ) |
+| 112 | [Path Sum]( https://leetcode.com/problems/path-sum/ ) | [C++]( 112.%20Path%20Sum ) |
+| 118 | [Pascal's Triangle]( https://leetcode.com/problems/pascals-triangle/ ) | [C++]( 118.%20Pascal's%20Triangle ) |
+| 119 | [Pascal's Triangle II]( https://leetcode.com/problems/pascals-triangle-ii/ ) | [C++]( 119.%20Pascal's%20Triangle%20II ) |
+| 121 | [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ ) | [C++]( 121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock ) |
+| 125 | [Valid Palindrome]( https://leetcode.com/problems/valid-palindrome/ ) | [C++]( 125.%20Valid%20Palindrome ) |
+| 134 | [Gas Station]( https://leetcode.com/problems/gas-station/ ) | [C++]( 134.%20Gas%20Station ) |
+| 135 | [Candy]( https://leetcode.com/problems/candy/ ) | [C++]( 135.%20Candy ) |
+| 136 | [Single Number]( https://leetcode.com/problems/single-number/ ) | [C++]( 136.%20Single%20Number ) |
+| 137 | [Single Number II]( https://leetcode.com/problems/single-number-ii/ ) | [C++]( 137.%20Single%20Number%20II ) |
