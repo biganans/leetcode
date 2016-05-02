@@ -42,3 +42,5 @@
 | 38 | [Count and Say]( https://leetcode.com/problems/count-and-say/ ) | [C++]( 38.%20Count%20and%20Say ) |
 | 39 | [Combination Sum]( https://leetcode.com/problems/combination-sum/ ) | [C++]( 39.%20Combination%20Sum ) |
 | 40 | [Combination Sum II]( https://leetcode.com/problems/combination-sum-ii/ ) | [C++]( 40.%20Combination%20Sum%20II ) |
+| 41 | [First Missing Positive]( https://leetcode.com/problems/first-missing-positive/ ) | [C++]( 41.%20First%20Missing%20Positive ) |
+| 42 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/ ) | [C++]( 42.%20Trapping%20Rain%20Water ) |
