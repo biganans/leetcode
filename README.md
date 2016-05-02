@@ -38,3 +38,7 @@
 | 34 | [Search for a Range]( https://leetcode.com/problems/search-for-a-range/ ) | [C++]( 34.%20Search%20for%20a%20Range ) |
 | 35 | [Search Insert Position]( https://leetcode.com/problems/search-insert-position/ ) | [C++]( 35.%20Search%20Insert%20Position ) |
 | 36 | [Valid Sudoku]( https://leetcode.com/problems/valid-sudoku/ ) | [C++]( 36.%20Valid%20Sudoku ) |
+| 37 | [Sudoku Solver]( https://leetcode.com/problems/sudoku-solver/ ) | [C++]( 37.%20Sudoku%20Solver ) |
+| 38 | [Count and Say]( https://leetcode.com/problems/count-and-say/ ) | [C++]( 38.%20Count%20and%20Say ) |
+| 39 | [Combination Sum]( https://leetcode.com/problems/combination-sum/ ) | [C++]( 39.%20Combination%20Sum ) |
+| 40 | [Combination Sum II]( https://leetcode.com/problems/combination-sum-ii/ ) | [C++]( 40.%20Combination%20Sum%20II ) |
