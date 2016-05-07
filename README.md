@@ -71,3 +71,6 @@
 | 138 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/ ) | [C++]( 138.%20Copy%20List%20with%20Random%20Pointer ) |
 | 139 | [Word Break]( https://leetcode.com/problems/word-break/ ) | [C++]( 139.%20Word%20Break ) |
 | 140 | [Word Break II]( https://leetcode.com/problems/word-break-ii/ ) | [C++]( 140.%20Word%20Break%20II ) |
+| 141 | [Linked List Cycle]( https://leetcode.com/problems/linked-list-cycle/ ) | [C++]( 141.%20Linked%20List%20Cycle ) |
+| 142 | [Linked List Cycle II]( https://leetcode.com/problems/linked-list-cycle-ii/ ) | [C++]( 142.%20Linked%20List%20Cycle%20II ) |
+| 143 | [Reorder List]( https://leetcode.com/problems/reorder-list/ ) | [C++]( 143.%20Reorder%20List ) |
