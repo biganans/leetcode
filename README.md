@@ -68,3 +68,6 @@
 | 135 | [Candy]( https://leetcode.com/problems/candy/ ) | [C++]( 135.%20Candy ) |
 | 136 | [Single Number]( https://leetcode.com/problems/single-number/ ) | [C++]( 136.%20Single%20Number ) |
 | 137 | [Single Number II]( https://leetcode.com/problems/single-number-ii/ ) | [C++]( 137.%20Single%20Number%20II ) |
+| 138 | [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/ ) | [C++]( 138.%20Copy%20List%20with%20Random%20Pointer ) |
+| 139 | [Word Break]( https://leetcode.com/problems/word-break/ ) | [C++]( 139.%20Word%20Break ) |
+| 140 | [Word Break II]( https://leetcode.com/problems/word-break-ii/ ) | [C++]( 140.%20Word%20Break%20II ) |
